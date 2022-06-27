@@ -1,0 +1,5 @@
+Memahami cara kerja Git
+Dapat memahami cara membuat repository baru
+Dapat memahami manajemen cabang (branch management)
+Dapat memahami cara manajemen perubahan file, commit dan push ke repository
+Dapat memahami cara Open dan merge pull request
